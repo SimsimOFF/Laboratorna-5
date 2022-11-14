@@ -1,0 +1,5 @@
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-5\Laboratorna 5\Laboratorna 5_2\obj\Debug\netcoreapp3.1\Laboratorna 5_2.csproj.AssemblyReference.cache
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-5\Laboratorna 5\Laboratorna 5_2\obj\Debug\netcoreapp3.1\Laboratorna 5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-5\Laboratorna 5\Laboratorna 5_2\obj\Debug\netcoreapp3.1\Laboratorna 5_2.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-5\Laboratorna 5\Laboratorna 5_2\obj\Debug\netcoreapp3.1\Laboratorna 5_2.AssemblyInfo.cs
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-5\Laboratorna 5\Laboratorna 5_2\obj\Debug\netcoreapp3.1\Laboratorna 5_2.csproj.CoreCompileInputs.cache
